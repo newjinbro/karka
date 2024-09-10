@@ -1,0 +1,30 @@
+{
+    "mobiles": [
+      {
+        "model_name": "Galaxy S24 Ultra",
+        "price": 1299.99,
+        "image_link": "https://m.media-amazon.com/images/I/71DoeQ838GL._SL1500_.jpg"
+      },
+      {
+        "model_name": "iPhone 15 Pro Max",
+        "price": 1199.99,
+        "image_link": "https://m.media-amazon.com/images/I/71d7rfSl0wL._SL1500_.jpg"
+      },
+      {
+        "model_name": "Pixel 9 Pro",
+        "price": 999.99,
+        "image_link": "https://m.media-amazon.com/images/I/51w00HbJtsL._SL1102_.jpg"
+      },
+      {
+        "model_name": "OnePlus 12",
+        "price": 899.99,
+        "image_link": "https://m.media-amazon.com/images/I/71pKVhll1IL._SL1500_.jpg"
+      },
+      {
+        "model_name": "Xiaomi Mi 14",
+        "price": 749.99,
+        "image_link": "https://m.media-amazon.com/images/I/41O+9LbIOUL._SY300_SX300_.jpg"
+      }
+    ]
+  }
+  
